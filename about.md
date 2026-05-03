@@ -18,4 +18,4 @@ title: "소개"
   - [심리학과 사이트](https://psych.snu.ac.kr/)
 - ~~부전공 생명과학~~
 
-<script scr="/assets/js/hello.js"></script>
+<script src="/assets/js/hello.js"></script>
