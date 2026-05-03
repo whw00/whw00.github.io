@@ -17,3 +17,5 @@ title: "소개"
   - 졸업논문으로 **학습심리**에 대한 연구 진행
   - [심리학과 사이트](https://psych.snu.ac.kr/)
 - ~~부전공 생명과학~~
+
+<script scr="/assets/js/hello.js"></script>
