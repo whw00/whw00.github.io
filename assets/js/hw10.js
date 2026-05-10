@@ -16,7 +16,7 @@ function classifyEra(year) {
 
 const years = [1908, 1936, 1972, 2025];
 for (const year of years) {
-    console.groupCollapsed(`${year}년: ${classifyEra(year)}`);
+    console.log(`${year}년: ${classifyEra(year)}`);
 }
 
 // Q2
