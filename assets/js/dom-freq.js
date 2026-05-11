@@ -7,12 +7,14 @@ function countChar(text, target){
     return count;
 }
 
+// HTML 문서에서 가져오기
 const text = document.querySelector("#text-body").textContent;
 const targets = ["이", "의", "날", "개", "소"];
 
 const counts = targets.map(t => countChar(text, t));
 console.log(counts);
 
+//비어 있던 HTML 리스트 가져오기
 const list = document.querySelector("#freq-list");
 
 for (let i = 0; i < targets.length; i++) {
