@@ -20,7 +20,7 @@ form.addEventListener("submit", (e) => {
     const targets = targetBox.ariaValueMax.split(",").map(s => s.trim());
     const counts = targets.map(t => countChar(text, t));
 
-    drwaList(targets, counts);
+    drawList(targets, counts);
     drawTop(targets, counts);
 });
 
