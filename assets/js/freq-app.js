@@ -16,8 +16,8 @@ const topBox = document.querySelector("#top-char");
 form.addEventListener("submit", (e) => {
     e.preventDefault();
 
-    const text = textBox.ariaValueMax;
-    const targets = targetBox.ariaValueMax.split(",").map(s => s.trim());
+    const text = textBox.value;
+    const targets = targetBox.value.split(",").map(s => s.trim());
     const counts = targets.map(t => countChar(text, t));
 
     drawList(targets, counts);
