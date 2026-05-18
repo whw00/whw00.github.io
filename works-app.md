@@ -5,7 +5,7 @@ permalink: /works-app/
 ---
 
 <h2>작품을 골라 보세요</h2>
-<div id="works-buttons"></div>
+<div id="work-buttons"></div>
 
 <h3 id="now-showing"></h3>
 <ul id="freq-list"></ul>
