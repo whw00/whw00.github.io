@@ -21,7 +21,7 @@ function drawChart(rows) {
         const counts = rows.map(r => r.count);
 
         const canvas = document.querySelector("#poems-chart");
-        new CharacterData(canvas, {
+        new Chart(canvas, {
             type: "bar",
             data: {
                 labels: labels,
