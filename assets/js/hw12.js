@@ -21,7 +21,6 @@ fetch("/data/sillok.json")
             options: {
                 plugins: {
                     title: { display: true, text: "조선왕조실록 왕대별 권수"},
-                    legend: { display: true },
                 },
                 scales: {
                     y: { beginAtZero: true }
