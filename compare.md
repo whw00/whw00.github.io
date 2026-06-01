@@ -12,7 +12,7 @@ permalink: /compare/
     </div>
     <div style="flex: 1;">
         <h3>The Hound of the Baskervilles</h3>
-        <div style="height: 500px;"><canvas id="chart-hound"></canvas></div>
+        <div style="height: 500px";><canvas id="chart-hound"></canvas></div>
     </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
