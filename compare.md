@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 두 소설의 단어 빈도 비교
+title: 셜록 홈즈 비교
 permalink: /compare/
 ---
 
@@ -16,5 +16,6 @@ permalink: /compare/
 	</div>
 </div>
 
+{% include charts.html %}
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="/assets/js/compare.js"></script>

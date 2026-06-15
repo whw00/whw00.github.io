@@ -16,3 +16,10 @@ title: "홈"
 - 문학
 - 역사
 - 데이터 분석
+
+## 프로젝트
+* **[셜록 홈즈 비교] (/compare/)** - *A Study in Scarlet*과 *The Hound of the Baskervilles*의 단어 사용 빈도를 비교합니다.
+* **[고딕 소설 비교] (/gothic/)** - *Frankenstein*과 *Dracula*의 단어 빈도를 비교합니다.
+* **[텍스트 분석기] (/analyzer/)** - 사용자가 직접 영어 글을 붙여 넣어 가장 많이 나온 단어를 확인할 수 있습니다.
+
+[프로젝트 전체 아카이브] (/projects/)
