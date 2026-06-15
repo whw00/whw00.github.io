@@ -17,5 +17,5 @@ permalink: /compare/
 </div>
 
 {% include charts.html %}
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/assets/js/analysis.js"></script>
 <script src="/assets/js/compare.js"></script>
