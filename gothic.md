@@ -38,6 +38,6 @@ NLTK 기본 목록 외에 다음 5개의 단어를 `data/stopwords-custom.txt`�
   * **Frankenstein**: `father`, `elizabeth`, `fiend`, `monster`, `life` 등의 단어가 압도적으로 많습니다. 이는 단순한 공포를 넘어 생명(life) 창조에 대한 철학적 고뇌와, 피조물이 느끼는 가족(father) 및 유대에 대한 갈망이라는 작품의 핵심 주제를 직접적으로 시사합니다.
   * **Dracula**: `count`, `castle`, `room`, `door`, `window`, `wolves` 같은 공간 및 사물 명사가 크게 두드러집니다. 이는 조나단 하커가 백작(count)의 낯선 성(castle)에 갇힌 채 방과 문, 창문을 통해 겪는 공간적인 폐쇄성과 직접적인 생존의 공포를 생생하게 보여줍니다.
 
-{% include charts.html %}
+{% include chartjs.html %}
 <script src="/assets/js/analysis.js"></script>
 <script src="/assets/js/gothic.js"></script>
