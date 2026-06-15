@@ -1,6 +1,6 @@
 ---
 layout: page
-tutle: 텍스트 분석기
+title: 텍스트 분석기
 permalink: /analyzer/
 ---
 
